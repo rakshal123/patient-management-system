@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: patient-services
+
+#  datasource:
+#    url: jdbc:postgresql://localhost:5001/db
+#    username: admin_user
+#    password: password
+#
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#
+#  sql:
+#    init:
+#      mode: always
+
+
