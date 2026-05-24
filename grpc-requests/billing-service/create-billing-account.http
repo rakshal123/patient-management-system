@@ -1,0 +1,8 @@
+GRPC localhost:9091/BillingService/CreateBillingAccount
+Content-Type: application/json
+
+{
+  "patientId": "1234",
+  "name": "John Doe",
+  "email": "john.doe@zopsmart.com"
+}
