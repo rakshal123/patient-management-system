@@ -1,0 +1,11 @@
+### Create a new Patient Entity
+POST http://localhost:8080/patients
+Content-Type: application/json
+
+{
+  "name" : "John Doe",
+  "email": "john.doe@zopsmart.com",
+  "address" : "123rd main street",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate" : "2024-11-28"
+}
